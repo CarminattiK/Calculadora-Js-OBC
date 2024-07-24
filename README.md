@@ -13,12 +13,10 @@ CSS: Estilização e layout
 Como Utilizar
 Clone o repositório:
 
-sh
 Copiar código
 git clone https://github.com/seuusuario/Calculadora-Js-OBC.git
 Navegue até o diretório do projeto:
 
-sh
 Copiar código
 cd Calculadora-Js-OBC
 Abra o arquivo index.html no seu navegador preferido.

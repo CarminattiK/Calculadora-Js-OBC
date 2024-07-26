@@ -1,5 +1,6 @@
 # Calculadora Js OBC
-Este repositório contém uma calculadora desenvolvida em JavaScript como parte de uma atividade prática oferecida pela OBC. O projeto é baseado no exemplo fornecido pelo professor, mas com personalizações e estilos próprios.
+
+Este repositório contém uma calculadora desenvolvida em JavaScript como parte de um projeto prático guiado oferecido pela OBC. O projeto é baseado no exemplo fornecido pelo professor, mas com personalizações e estilos próprios.
 
 Funcionalidades
 Operações básicas: Adição, subtração, multiplicação e divisão
